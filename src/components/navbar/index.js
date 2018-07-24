@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { BrowserRouter as Router, Route, Link } from 'react-router-dom'
 import { Collapse, Navbar, NavbarToggler, Nav, NavItem } from 'reactstrap'
-import Inde from './../index/section1/index'
+import Inde from './../index/index'
 // import Contact from './../contact/index'
 // import Work from './../work/index'
 // import Serv from './../services/index'
